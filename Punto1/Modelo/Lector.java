@@ -1,5 +1,3 @@
-package Tp4.Punto1.Modelo;
-
 public class Lector {
     private String nombre;
     private String apellido;

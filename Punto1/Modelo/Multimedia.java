@@ -1,8 +1,6 @@
 
 import java.time.LocalDate;
-import Tp4.Punto1.Modelo.Materiales;
-
-public class Multimedia extends Materiales{
+public class Multimedia extends Material{
 
     private String formato;
     private int tamaño;

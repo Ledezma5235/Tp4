@@ -2,7 +2,7 @@
 
 import java.time.LocalDate;
 
-public class Materiales {
+public class Material {
     protected String titulo;
     protected LocalDate fechadepublicacion;
     protected int idcod;
